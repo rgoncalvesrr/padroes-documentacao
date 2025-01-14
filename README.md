@@ -18,7 +18,7 @@ Modelos de documentação para ser usado no Github
 
 ## Lista
 
-- [ ] Minhas alterações são menores que 401 linhas
+- [ ] Minhas alterações são no máximo de 400 linhas
 - [ ] Eu revisei meu código
 - [ ] Os testes existentes e linter estão passando localmente
 - [ ] Eu criei testes de unidades para feature ou bugfix (se aplicável)
